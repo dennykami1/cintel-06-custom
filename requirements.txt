@@ -2,3 +2,10 @@ faicons
 pandas
 plotly
 shinywidgets
+ridgeplot
+statsmodels!=0.14.2,>=0.12
+numpy
+packaging
+pandas
+patsy
+scipy
